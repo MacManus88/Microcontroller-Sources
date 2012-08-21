@@ -1,4 +1,4 @@
-//More Infos: 
+//More Infos: http://www.pascals-koenigreich.de/2012/08/maussteuerung-per-feuerzeug.html
 
 #include <Wire.h>
 #include <PVision.h>
