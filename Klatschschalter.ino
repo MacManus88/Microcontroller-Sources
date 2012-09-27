@@ -1,4 +1,5 @@
 //Library RCSwitch von folgender Seite: http://code.google.com/p/rc-switch/
+//Mehr Infos: http://www.pascals-koenigreich.de/2012/09/klatschschalter-mit-arduino-zum-steuern.html
 #include <RCSwitch.h>
 
 int soundSensor = 2;
