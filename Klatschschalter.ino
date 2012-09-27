@@ -1,3 +1,4 @@
+//Library RCSwitch von folgender Seite: http://code.google.com/p/rc-switch/
 #include <RCSwitch.h>
 
 int soundSensor = 2;
