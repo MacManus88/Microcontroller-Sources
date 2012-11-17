@@ -1,4 +1,4 @@
-// Date and time functions using a DS1307 RTC connected via I2C and Wire lib
+// Mehr Infos: http://www.pascals-koenigreich.de/2012/11/binaruhr-teil-1.html
 
 #include <Wire.h>
 #include "RTClib.h"
