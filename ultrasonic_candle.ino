@@ -1,4 +1,4 @@
-//Mehr Infos auf: 
+//Mehr Infos auf: http://www.pascals-koenigreich.de/2013/04/led-kerze-mit-unterschiedlichen.html
 
 #include <NewPing.h>
 
