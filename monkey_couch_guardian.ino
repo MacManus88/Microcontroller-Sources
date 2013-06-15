@@ -1,7 +1,7 @@
 /*
   Monkey Couch Guardian
   Turns on cymbal-banging toy monkey when PIR motion sensor detects motion.
-  More Information: 
+  More Information: http://www.pascals-koenigreich.de/2013/06/zirkusaffe-und-bewegungsmelder-teil-2.html
  */
  
  // pin 13 activates the relay which switches on monkey
